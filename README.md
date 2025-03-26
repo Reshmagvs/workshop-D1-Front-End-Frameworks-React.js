@@ -8,7 +8,7 @@ WEEK 4 : Front-End Frameworks/Tools
    [Repository] (https://github.com/Reshmagvs/Basic-react-app)
    
 3. Angular hands on mini project :
-   [Repository] (https://github.com/Reshmagvs/Basic-react-app)
+   [Repository] (https://github.com/Reshmagvs/Basic-angular-project))
 
 4. Vue.js hands on mini project :
    [Repository] (https://github.com/Reshmagvs/Basic-Vue.js-app)
