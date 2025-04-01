@@ -1,6 +1,6 @@
 # VALUE ADDED COURSE ( Teaching Assistant ): Building the Web - Full-Stack Development Essentials
 WEEK 4 : Front-End Frameworks/Tools
-# Day 1 ( basic understanding on react.js , vue.js, angular and userstate + mini hands on projects )
+# Day 1 ( basic understanding on react.js , vue.js, angular and userstate)
 
 1. Install node.js & vs code to run and create the projects .
 
@@ -13,7 +13,7 @@ WEEK 4 : Front-End Frameworks/Tools
 4. Vue.js hands on mini project :
    [Repository] (https://github.com/Reshmagvs/Basic-Vue.js-app)
 
-# Day 2 ( A hands on mini project based on reusable components )
+# Day 2 ( mini projects based on reusable components )
 
 1. React.js mini project :
    [Repository] (https://github.com/Reshmagvs/Reusable-components-react.js)
