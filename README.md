@@ -8,14 +8,22 @@ WEEK 4 : Front-End Frameworks/Tools
    [Repository] (https://github.com/Reshmagvs/Basic-react-app)
    
 3. Angular hands on mini project :
-   [Repository] (https://github.com/Reshmagvs/Basic-angular-project))
+   [Repository] (https://github.com/Reshmagvs/Basic-angular-project)
 
 4. Vue.js hands on mini project :
    [Repository] (https://github.com/Reshmagvs/Basic-Vue.js-app)
 
-# Day 2 ( A hands on mini project based on react.js + vue.js + angular + userstate )
+# Day 2 ( A hands on mini project based on reusable components )
 
-1. Hands on mini project:
+1. React.js mini project :
+   [Repository] (https://github.com/Reshmagvs/Reusable-components-react.js)
+   
+3. Angular hands on mini project :
+   [Repository] (https://github.com/Reshmagvs/Reusable-components-angular)
+
+4. Vue.js mini project :
+   [Repository] (https://github.com/Reshmagvs/Reusable-components-vue.js)
+
    
 # Day 3 ( Building State management : userState in react )
 
