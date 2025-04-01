@@ -1,4 +1,4 @@
-# VALUE ADDED COURSE : Building the Web - Full-Stack Development Essentials
+# VALUE ADDED COURSE ( Teaching Assistant ): Building the Web - Full-Stack Development Essentials
 WEEK 4 : Front-End Frameworks/Tools
 # Day 1 ( basic understanding on react.js , vue.js, angular and userstate + mini hands on projects )
 
