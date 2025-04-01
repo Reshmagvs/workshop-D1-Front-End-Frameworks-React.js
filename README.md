@@ -16,5 +16,8 @@ WEEK 4 : Front-End Frameworks/Tools
 # Day 2 ( A hands on mini project based on react.js + vue.js + angular + userstate )
 
 1. Hands on mini project:
- [Repository] 
+   
+# Day 3 ( Building State management : userState in react )
 
+1. Hands on mini project ( userstate in react : mood journal )
+   [Repository] (https://github.com/Reshmagvs/moodjournal_userstate)
